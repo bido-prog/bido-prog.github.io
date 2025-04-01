@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Jennifer Smith",
+        "position": "Senior HR Consultant",
+        "image": "team1.jpg",
+        "social": {
+            "linkedin": "#",
+            "twitter": "#"
+        },
+        "email": "jennifer@prohrsolutions.com"
+    },
+    {
+        "name": "Robert Johnson",
+        "position": "Recruitment Specialist",
+        "image": "team2.jpg",
+        "social": {
+            "linkedin": "#",
+            "twitter": "#"
+        },
+        "email": "robert@prohrsolutions.com"
+    },
+    {
+        "name": "Emily Davis",
+        "position": "Training Coordinator",
+        "image": "team3.jpg",
+        "social": {
+            "linkedin": "#",
+            "twitter": "#"
+        },
+        "email": "emily@prohrsolutions.com"
+    },
+    {
+        "name": "Michael Brown",
+        "position": "Compliance Officer",
+        "image": "team4.jpg",
+        "social": {
+            "linkedin": "#",
+            "twitter": "#"
+        },
+        "email": "michael@prohrsolutions.com"
+    }
+]
