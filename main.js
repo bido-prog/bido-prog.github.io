@@ -123,7 +123,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // For this example, we'll use a mock data object
     const teamData = [
         {
-            "name": "Jennifer Smith",
+            "name": "Yordanos Alebachew",
             "position": "Senior HR Consultant",
             
             "image": "images/b3.jpg",
@@ -134,7 +134,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "email": "jennifer@prohrsolutions.com"
         },
         {
-            "name": "Robert Johnson",
+            "name": "Melaku Bekelcha",
             "position": "Recruitment Specialist",
             "image": "team2.jpg",
             "social": {
