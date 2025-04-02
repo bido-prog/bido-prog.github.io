@@ -131,7 +131,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 "linkedin": "#",
                 "twitter": "#"
             },
-            "email": "jennifer@prohrsolutions.com"
+            "email": "123@gmail.com"
         },
         {
             "name": "Melaku Bekelcha",
@@ -141,27 +141,27 @@ document.addEventListener('DOMContentLoaded', function() {
                 "linkedin": "#",
                 "twitter": "#"
             },
-            "email": "robert@prohrsolutions.com"
+            "email": "222@gmail.com"
         },
         {
-            "name": "Emily Davis",
+            "name": "Yeshimebet Alebachew",
             "position": "Training Coordinator",
             "image": "team3.jpg",
             "social": {
                 "linkedin": "#",
                 "twitter": "#"
             },
-            "email": "emily@prohrsolutions.com"
+            "email": "123@gmail.com"
         },
         {
-            "name": "Michael Brown",
+            "name": "ABC ABC",
             "position": "Compliance Officer",
             "image": "team4.jpg",
             "social": {
                 "linkedin": "#",
                 "twitter": "#"
             },
-            "email": "michael@prohrsolutions.com"
+            "email": "ABC@outlook.com"
         }
     ];
     
@@ -189,20 +189,20 @@ document.addEventListener('DOMContentLoaded', function() {
     // Testimonial slider
     const testimonials = [
         {
-            content: "ProHR transformed our recruitment process, helping us find top talent in half the time it used to take. Their expertise in our industry was evident from day one.",
-            name: "Sarah Johnson",
+            content: "PicoHR transformed our recruitment process, helping us find top talent in half the time it used to take. Their expertise in our industry was evident from day one.",
+            name: "Haile ",
             position: "CEO, TechSolutions Inc.",
             image: "client1.jpg"
         },
         {
             content: "The training programs developed by ProHR have significantly improved our team's performance. Their facilitators are engaging and the content is always relevant.",
-            name: "Michael Chen",
+            name: "Michael ",
             position: "HR Director, Global Retail",
             image: "client2.jpg"
         },
         {
             content: "As a small business, we didn't have dedicated HR staff. ProHR's outsourcing solution gave us access to expert support without the overhead costs.",
-            name: "David Wilson",
+            name: "Dawit",
             position: "Founder, GreenStart Organics",
             image: "client3.jpg"
         }
