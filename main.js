@@ -186,13 +186,13 @@ document.addEventListener('DOMContentLoaded', function() {
             image: "client1.jpg"
         },
         {
-            content: "The training programs developed by ProHR have significantly improved our team's performance. Their facilitators are engaging and the content is always relevant.",
+            content: "The training programs developed by PicoHR have significantly improved our team's performance. Their facilitators are engaging and the content is always relevant.",
             name: "Michael ",
             position: "HR Director, Global Retail",
             image: "client2.jpg"
         },
         {
-            content: "As a small business, we didn't have dedicated HR staff. ProHR's outsourcing solution gave us access to expert support without the overhead costs.",
+            content: "As a small business, we didn't have dedicated HR staff. Pico HR's outsourcing solution gave us access to expert support without the overhead costs.",
             name: "Dawit",
             position: "Founder, GreenStart Organics",
             image: "client3.jpg"
