@@ -126,7 +126,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "name": "Yordanos Alebachew",
             "position": "Senior HR Consultant",
             
-            "image": "images/b3.jpg",
+            "image": "b3.jpg",
             "social": {
                 "linkedin": "#",
                 "twitter": "#"
@@ -136,7 +136,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             "name": "Melaku Bekelcha",
             "position": "Recruitment Specialist",
-            "image": "team2.jpg",
+            "image": "b3.jpg",
             "social": {
                 "linkedin": "#",
                 "twitter": "#"
@@ -146,7 +146,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             "name": "Yeshimebet Alebachew",
             "position": "Training Coordinator",
-            "image": "team3.jpg",
+            "image": "b3.jpg",
             "social": {
                 "linkedin": "#",
                 "twitter": "#"
@@ -156,7 +156,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             "name": "ABC ABC",
             "position": "Compliance Officer",
-            "image": "team4.jpg",
+            "image": "b3.jpg",
             "social": {
                 "linkedin": "#",
                 "twitter": "#"
