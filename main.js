@@ -153,16 +153,7 @@ document.addEventListener('DOMContentLoaded', function() {
             },
             "email": "123@gmail.com"
         },
-        {
-            "name": "ABC ABC",
-            "position": "Compliance Officer",
-            "image": "b3.jpg",
-            "social": {
-                "linkedin": "#",
-                "twitter": "#"
-            },
-            "email": "ABC@outlook.com"
-        }
+       
     ];
     
     // Process the team data
